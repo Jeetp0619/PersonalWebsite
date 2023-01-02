@@ -1,2 +1,2 @@
 # PersonalWebsite
-Learn using HTM
+Learn using HTML, CSS, and Javascript
